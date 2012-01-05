@@ -11,6 +11,8 @@ Article access errors can be output to the page using the `showerror` parameter:
 
 	<include article="MyArticle" showerror="true" />
 
+Important: MediaWiki already has similar functionality built-in. Please refer to http://www.mediawiki.org/wiki/Transclusion
+
 Installation
 ============
 Simply copy the IncludeArticle folder to your Mediawiki extensions folder.
